@@ -6,17 +6,21 @@
   <img src="https://i.imgur.com/pBW7YiY.gif" width="140px" alt="Blastoise GIF" />
 </div>
 
+---
+
 ## 🧠 Sobre Mim
 
 Sou Técnico em Redes de Computadores em formação pelo Senai “Paulo Antonio Skaf” (conclusão prevista para dezembro de 2025). Atualmente, atuo como estagiário de TI, focado em manutenção de computadores, infraestrutura de redes e administração de servidores Windows Server 2019. Tenho interesse especial em segurança da informação, computação em nuvem e automação de infraestrutura, buscando aplicar boas práticas e me atualizar continuamente para contribuir com ambientes de TI seguros e eficientes.
 
+---
+
 <div style="display: inline_block">
- <h2> Skills 💻 </h2>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png">
-  <img align="center" alt="Azure" height="30" width="40" src="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-azure-logo.png">
-</div>
+ <h2>  🛠️ Tech Stack </h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,aws,azure,linux,mint,kali,ubuntu,debian,windows,prometheus,grafana,java,py
+</p>
+
+---
 
 <div style="display: inline_block">
   <h2> Badges | Certifications</h2>
@@ -30,6 +34,8 @@ Sou Técnico em Redes de Computadores em formação pelo Senai “Paulo Antonio 
 <a href="https://www.credly.com/badges/197cfad6-7f0f-4dfd-bf8c-1f634d6c8211/public_url">
   <img width="20%" height="20%" src="https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS CCP"/>
 </a>
+
+---
 
 ## Contato 📫
 
