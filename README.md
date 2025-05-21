@@ -6,21 +6,22 @@
   <img src="https://i.imgur.com/pBW7YiY.gif" width="140px" alt="Blastoise GIF" />
 </div>
 
----
-
 ## 🧠 Sobre Mim
-
 Sou Técnico em Redes de Computadores em formação pelo Senai “Paulo Antonio Skaf” (conclusão prevista para dezembro de 2025). Atualmente, atuo como estagiário de TI, focado em manutenção de computadores, infraestrutura de redes e administração de servidores Windows Server 2019. Tenho interesse especial em segurança da informação, computação em nuvem e automação de infraestrutura, buscando aplicar boas práticas e me atualizar continuamente para contribuir com ambientes de TI seguros e eficientes.
-
----
 
 <div style="display: inline_block">
  <h2>  🛠️ Tech Stack </h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,aws,azure,linux,mint,kali,ubuntu,debian,windows,prometheus,grafana,java,py
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,kali,ubuntu,debian,windows,prometheus,grafana,powershell">
 </p>
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8">
+  <img src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME">
+</p>
 
 <div style="display: inline_block">
   <h2> Badges | Certifications</h2>
