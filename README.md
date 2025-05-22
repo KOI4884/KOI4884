@@ -12,7 +12,7 @@ Sou Técnico em Redes de Computadores em formação pelo Senai “Paulo Antonio 
 <div style="display: inline_block">
  <h2>  🛠️ Tech Stack </h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,kali,ubuntu,debian,vim,nginx,windows,powershell,vscode,grafana,prometheus">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,kali,ubuntu,debian,mint,vim,nginx,windows,powershell,vscode,grafana,prometheus">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8">
