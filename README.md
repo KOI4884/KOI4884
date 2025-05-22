@@ -46,8 +46,8 @@ Sou Técnico em Redes de Computadores em formação pelo Senai “Paulo Antonio 
   - Casa Inteligente voltada aos PCDs com utlizamento de IoT
   - Infraestrutura e Segurança
   - Administração de Servidores Windows
-
-
+    
+<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KOI4884&theme=blue-navy&short_numbers=true&mode=weekly">
