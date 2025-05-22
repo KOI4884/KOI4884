@@ -24,19 +24,25 @@ Sou Técnico em Redes de Computadores em formação pelo Senai “Paulo Antonio 
 </p>
 
 <div style="display: inline_block">
-  <h2> Badges | Certifications</h2>
+  <h2> Badges </h2>
+  
+### 🌐 **Networking**
 
-<a href="https://www.credly.com/badges/e769e815-1a68-4d82-807b-38dd6fd24f04/public_url">
-  <img width="20%" height="20%" src="https://images.credly.com/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="CCNA SRWE"/>
-</a>
-<a href="https://www.credly.com/badges/e3db2393-5e9e-4087-b6b2-e6ef645220c4/public_url">
-  <img width="20%" height="20%" src="https://images.credly.com/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="CyberOps Associate"/>
-</a>
-<a href="https://www.credly.com/badges/197cfad6-7f0f-4dfd-bf8c-1f634d6c8211/public_url">
-  <img width="20%" height="20%" src="https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS CCP"/>
+<a href="https://www.credly.com/badges/e769e815-1a68-4d82-807b-38dd6fd24f04/public_url" target="_blank">
+  <img src="https://images.credly.com/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="CCNA SRWE" width="120px"/>
 </a>
 
----
+### ☁️ **Computação em Nuvem**
+
+<a href="https://www.credly.com/badges/197cfad6-7f0f-4dfd-bf8c-1f634d6c8211/public_url" target="_blank">
+  <img src="https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Cloud Practitioner" width="120px"/>
+</a>
+
+### 🛡️ **Cibersegurança**
+
+<a href="https://www.credly.com/badges/e3db2393-5e9e-4087-b6b2-e6ef645220c4/public_url" target="_blank">
+  <img src="https://images.credly.com/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="CyberOps Associate" width="120px"/>
+</a>
 
 ## Contato 📫
 
