@@ -43,7 +43,7 @@ Sou Técnico em Redes de Computadores em formação pelo Senai “Paulo Antonio 
 </a>
 
 ## Projetos 
-  - Casa Inteligente voltada aos PCDs com utlizamento de IoT
+  - Casa Inteligente
   - Infraestrutura e Segurança
   - Administração de Servidores Windows
     
