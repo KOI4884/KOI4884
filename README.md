@@ -7,7 +7,7 @@
 </div>
 
 ## 🧠 Sobre Mim
-Sou Técnico em Redes de Computadores em formação pelo Senai “Paulo Antonio Skaf” (conclusão prevista para dezembro de 2025). Atualmente, atuo como estagiário de TI, focado em manutenção de computadores, infraestrutura de redes e administração de servidores Windows Server 2019. Tenho interesse especial em segurança da informação, computação em nuvem e automação de infraestrutura, buscando aplicar boas práticas e me atualizar continuamente para contribuir com ambientes de TI seguros e eficientes.
+Sou Técnico em Redes de Computadores em formação pelo Senai “Paulo Antonio Skaf” (conclusão prevista para dezembro de 2025). Atualmente, atuo como estagiário de TI, focado em manutenção de computadores, infraestrutura de redes e administração de servidores Windows. Tenho interesse especial em segurança da informação, computação em nuvem e automação de infraestrutura, buscando aplicar boas práticas e me atualizar continuamente para contribuir com ambientes de TI seguros e eficientes.
 
 <div style="display: inline_block">
  <h2>  🛠️ Tech Stack </h2>
