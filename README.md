@@ -43,9 +43,11 @@ Sou Técnico em Redes de Computadores em formação pelo Senai “Paulo Antonio 
 </a>
 
 ## Projetos 
-  - Casa Inteligente
-  - Infraestrutura e Segurança
+  - Projeto casa inteligente voltada a PCDs (Deficientes auditivos) - Grupo SmartHome
   - Administração de Servidores Windows
+  - Monitoramento on premises com o uso de Zabbix & Grafana
+  - Infraestrutura em Nuvem usando AWS e Azure (Commercloud)
+  - Infraestrutura de rede no Packet Tracer zero trust
     
 <br>
 
