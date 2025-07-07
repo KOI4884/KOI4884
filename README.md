@@ -36,6 +36,10 @@ Sou Técnico em Redes de Computadores em formação pelo Senai “Paulo Antonio 
   <img src="https://images.credly.com/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="CyberOps Associate" width="120px"/>
 </a>
 
+<a href="https://www.credly.com/badges/3e1e22db-9251-4b68-8984-27dce5823aae" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png" alt="CyberOps Associate" width="120px"/>
+</a>
+
 ### ☁️ **AWS**
 
 <a href="https://www.credly.com/badges/197cfad6-7f0f-4dfd-bf8c-1f634d6c8211/public_url" target="_blank">
