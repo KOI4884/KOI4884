@@ -46,6 +46,10 @@ Sou Técnico em Redes de Computadores em formação pelo Senai “Paulo Antonio 
   <img src="https://images.credly.com/size/680x680/images/81fad72d-a948-409f-a979-0c1bf67b39ab/image.png" alt="AWS Cloud Practitioner" width="120px"/>
 </a>
 
+<a href="https://www.credly.com/badges/93c4f69d-c4d6-4c24-8db6-873977acedf8/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png" alt="AWS Cloud Practitioner" width="120px"/>
+</a>
+
 ## Projetos 
   - Projeto casa inteligente voltada a PCDs (Deficientes auditivos) - Grupo SmartHome
   - Administração de Servidores Windows
