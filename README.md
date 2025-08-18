@@ -26,6 +26,16 @@ Sou Técnico em Redes de Computadores em formação pelo Senai “Paulo Antonio 
 <div style="display: inline_block">
   <h2> Badges </h2>
 
+### 🧱 **Fortinet**
+
+<a href="https://www.credly.com/badges/370f73ed-2acd-4f69-8fb9-c158fe9c4885/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="CCNA SRWE" width="120px"/>
+</a>
+
+<a href="https://www.credly.com/badges/589dff36-82ee-4bf1-a014-f2dd5854188a/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/3bdb140a-43be-40b3-98d8-2bd075ca853a/blob" alt="CyberOps Associate" width="120px"/>
+</a>
+
 ### 🌐 **CISCO**
 
 <a href="https://www.credly.com/badges/e769e815-1a68-4d82-807b-38dd6fd24f04/public_url" target="_blank">
