@@ -7,7 +7,11 @@
 </div>
 
 ## 🧠 Sobre Mim
-Sou Técnico em Redes de Computadores em formação pelo Senai “Paulo Antonio Skaf” (conclusão prevista para dezembro de 2025). Atualmente, atuo como estagiário de TI, focado em manutenção de computadores, infraestrutura de redes e administração de servidores Windows. Tenho interesse especial em segurança da informação, computação em nuvem e automação de infraestrutura, buscando aplicar boas práticas e me atualizar continuamente para contribuir com ambientes de TI seguros e eficientes.
+Atualmente atuo como **Estagiário de TI**, com foco em **manutenção de computadores, infraestrutura de redes e administração de servidores Windows**. Tenho grande interesse em **Segurança da Informação, Computação em Nuvem e Automação de Infraestrutura**, buscando sempre aplicar **boas práticas**, aprender continuamente e contribuir para ambientes de TI **seguros, escaláveis e eficientes**.
+
+## 🎓 Formação Acadêmica
+- **Tecnólogo em Segurança da Informação** – FATEC São Caetano do Sul – Antonio Russo *(2025 – 2028, em andamento)*  
+- **Técnico em Redes de Computadores** – SENAI Paulo Antonio Skaf *(conclusão prevista: Dezembro/2025)*  
 
 <div style="display: inline_block">
  <h2>  🛠️ Tech Stack </h2>
