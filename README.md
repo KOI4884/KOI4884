@@ -33,11 +33,11 @@ Atualmente atuo como **Estagiário de TI**, com foco em **manutenção de comput
 ### 🧱 **Fortinet**
 
 <a href="https://www.credly.com/badges/370f73ed-2acd-4f69-8fb9-c158fe9c4885/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="CCNA SRWE" width="120px"/>
+  <img src="https://images.credly.com/size/340x340/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="Associate Cybersecurity" width="120px"/>
 </a>
 
 <a href="https://www.credly.com/badges/589dff36-82ee-4bf1-a014-f2dd5854188a/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/3bdb140a-43be-40b3-98d8-2bd075ca853a/blob" alt="CyberOps Associate" width="120px"/>
+  <img src="https://images.credly.com/size/340x340/images/92f41b16-a144-41e5-a5ab-f853faaf0939/blob" alt="FortiGate 7.6 Operator" width="120px"/>
 </a>
 
 ### 🌐 **CISCO**
@@ -47,11 +47,11 @@ Atualmente atuo como **Estagiário de TI**, com foco em **manutenção de comput
 </a>
 
 <a href="https://www.credly.com/badges/e3db2393-5e9e-4087-b6b2-e6ef645220c4/public_url" target="_blank">
-  <img src="https://images.credly.com/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="CyberOps Associate" width="120px"/>
+  <img src="https://images.credly.com/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="Computer Hardware Basics" width="120px"/>
 </a>
 
 <a href="https://www.credly.com/badges/3e1e22db-9251-4b68-8984-27dce5823aae" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png" alt="CyberOps Associate" width="120px"/>
+  <img src="https://images.credly.com/size/340x340/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png" alt="Operating Systems Basics" width="120px"/>
 </a>
 
 ### ☁️ **AWS**
@@ -61,11 +61,11 @@ Atualmente atuo como **Estagiário de TI**, com foco em **manutenção de comput
 </a>
 
 <a href="https://www.credly.com/badges/7eadc2c9-a969-4764-92ed-4e907daad5f5/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/7f7ea828-a10d-44f8-8baa-58a9c1af7671/blob" alt="AWS Cloud Practitioner" width="120px"/>
+  <img src="https://images.credly.com/size/340x340/images/7f7ea828-a10d-44f8-8baa-58a9c1af7671/blob" alt="AWS Cloud Security Foundations" width="120px"/>
 </a>
 
 <a href="https://www.credly.com/badges/93c4f69d-c4d6-4c24-8db6-873977acedf8/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/7f7ea828-a10d-44f8-8baa-58a9c1af7671/blob" alt="AWS Cloud Practitioner" width="120px"/>
+  <img src="https://images.credly.com/size/340x340/images/7f7ea828-a10d-44f8-8baa-58a9c1af7671/blob" alt="AWS Cloud Developing" width="120px"/>
 </a>
 
 ## Projetos 
